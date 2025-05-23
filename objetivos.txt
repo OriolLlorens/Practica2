@@ -1,3 +1,4 @@
 "Mis objetivos para el m ster:" 
 "- Aprender Git a nivel profesional" 
 "- Ser capaz de desarrollar proyectos en equipo" 
+"- Mejorar mis habilidades de programaci¢n" 
